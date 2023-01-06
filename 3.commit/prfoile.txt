@@ -1,2 +1,2 @@
-email :
-gitID :
+email : jsangmin99@gmail.com
+gitID : jsangmin99
